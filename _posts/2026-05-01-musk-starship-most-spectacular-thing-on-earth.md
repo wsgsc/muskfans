@@ -1,0 +1,20 @@
+---
+title: 埃隆·马斯克：Starship 是当下地球上最壮观的事
+categories: [quotes]
+---
+
+马斯克在这段采访里给了 Starship 一个极高的评价：在他看来，今天地球上最壮观、最值得亲眼去看的事情，就是 SpaceX 的 Starship 发射计划。
+
+他特别强调，这并不是一个只能隔着新闻去想象的项目。只要去美国南得州，住在南帕德里岛或布朗斯维尔一带的普通酒店，普通人就有机会亲眼看到发射；而且因为工厂就在公共公路旁边，甚至开车经过都能直接看到。
+
+马斯克真正不满的，不是 Starship 不够震撼，而是它得到的关注远远不够。他的意思很明确：这样一个正在改写航天历史的项目，本该成为全球媒体持续追踪的焦点，但现实中得到的报道却非常有限。
+
+即使偶尔上新闻，很多报道也只盯着“火箭爆炸了”这种最表面的瞬间，却忽略了 Starship 计划本身代表的工程突破、迭代速度，以及它对未来航天成本和人类走向火星的意义。
+
+从这段话能看出来，马斯克想传递的不只是对一次发射的兴奋，而是对整个 Starship 项目的判断：这是一个正在发生、而且足以载入历史的超级工程。
+
+——The Joe Rogan Experience, October 31, 2025
+
+<video style="width:100%;aspect-ratio:16/9;" controls>
+  <source src="/assets/video/musk-starship-most-spectacular-thing-on-earth.mp4" type="video/mp4">
+</video>
