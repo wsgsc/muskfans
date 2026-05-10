@@ -10,4 +10,3 @@ categories: [quotes]
   <source src="/assets/video/musk-engineering-design-sxsw-2018.mp4" type="video/mp4">
 </video>
 
-——Interview at SXSW 2018, March 11, 2018

@@ -11,7 +11,6 @@ categories: [quotes]
 
 哪怕你再瞬移三个木星到太阳系里，把它们也一起烧掉，太阳产生的能量，依旧可以被算作 **100%**。”
 
-——2026 年 1 月 6 日
 与 Peter Diamandis、Dave Blundin 的讨论
 
 

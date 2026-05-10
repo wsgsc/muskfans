@@ -17,7 +17,6 @@ categories: [quotes]
 
 无论你是富是贫，无论你身处哪个国家，每个人都需要灵感。”
 
-——摘自《MARS: Inside SpaceX》，2018年1月1日
 
 
 

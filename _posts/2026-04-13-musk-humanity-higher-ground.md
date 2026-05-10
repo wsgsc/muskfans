@@ -11,7 +11,6 @@ categories: [quotes]
 
 我认为，我们必须重返月球，并在那里建立一个基地，一个科学基地。如果我们在月球上拥有一个真正的科学基地，我想我们会对宇宙的本质学到很多东西。我们在南极洲和世界上许多地方都有科学基地。所以我认为，这就是下一件大事。我们必须建立一个真正严肃的月球基地，然后把人送上火星，走向更远，成为一个真正的太空文明。”
 
-——Interview with Lex Fridman, December 28, 2021
 
 <video style="width:100%;aspect-ratio:16/9;" controls>
   <source src="/assets/video/musk-humanity-higher-ground.mp4" type="video/mp4">

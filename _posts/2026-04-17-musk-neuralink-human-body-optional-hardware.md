@@ -21,7 +21,6 @@ categories: [quotes]
 
 身体仍然重要，但它第一次不再像过去那样，决定一个人能做什么、不能做什么。
 
-——Dustin, April 17, 2026
 
 <video style="width:100%;aspect-ratio:16/9;" controls>
   <source src="/assets/video/musk-neuralink-human-body-optional-hardware.mp4" type="video/mp4">

@@ -19,7 +19,6 @@ categories: [quotes]
 
 如果一件事情只是让流程变长、表格变多、审批更复杂，却没有增加真实价值，那么它或许能推高统计数字，却不一定能推动文明进步。
 
-——来源：X 视频片段整理
 
 <video style="width:100%;aspect-ratio:16/9;" controls>
   <source src="/assets/video/musk-gdp-does-not-equal-value.mp4" type="video/mp4">

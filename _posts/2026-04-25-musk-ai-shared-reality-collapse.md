@@ -15,7 +15,6 @@ categories: [quotes]
 
 很多人担心 AI 先取代人的工作；但从马斯克这段话延伸出去，更值得警惕的，也许是 AI 正在让“什么算真实”本身变得越来越难以证明。
 
-——Dustin @r0ck3t23，2026年4月25日
 
 <video style="width:100%;aspect-ratio:16/9;" controls>
   <source src="/assets/video/musk-ai-shared-reality-collapse.mp4" type="video/mp4">

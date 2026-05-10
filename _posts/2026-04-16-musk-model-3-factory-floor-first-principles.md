@@ -19,7 +19,6 @@ categories: [quotes]
 
 这或许正是马斯克式第一性原理最现实的一面：不是抽象地谈逻辑，而是在最混乱、最痛苦、最容易失败的现场，把问题一个个解决掉。
 
-——TED Interview, April 14, 2022
 
 <video style="width:100%;aspect-ratio:16/9;" controls>
   <source src="/assets/video/musk-model-3-factory-floor-first-principles.mp4" type="video/mp4">

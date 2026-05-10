@@ -17,7 +17,6 @@ categories: [quotes]
 
 宇宙的沉默，也许不是一个等待我们破解的谜题，而是一条已经写得很清楚的警告：如果人类想把意识、技术与文明延续得更久，就必须尽快成为多行星物种。
 
-——视频引述整理自 X 平台用户 @r0ck3t23 发布的马斯克相关片段，2026年5月4日
 
 <video style="width:100%;aspect-ratio:16/9;" controls>
   <source src="/assets/video/musk-cosmic-silence-single-planet-civilization-risk.mp4" type="video/mp4">

@@ -11,7 +11,6 @@ categories: [quotes]
 
 "对于欧洲来说，你可以在西班牙或西西里岛这些人口稀少的地区，建起足够产生整个欧洲所需电力的太阳能阵列。"
 
-——Interview at WEF, January 22, 2026
 
 <video style="width:100%;aspect-ratio:16/9;" controls>
   <source src="/assets/video/musk-solar-small-area-power-usa-europe.mp4" type="video/mp4">

@@ -17,7 +17,6 @@ categories: [quotes]
 
 对 22 岁的人来说，这种建议的重点不是“马上复制马斯克”，而是学会先问自己一个更根本的问题：我现在做的事情，是否真的在推动某个重要问题向前走？
 
-——via X @jaynitx, Apr 20, 2026
 
 <video style="width:100%;aspect-ratio:16/9;" controls>
   <source src="/assets/video/musk-advice-for-22-year-olds.mp4" type="video/mp4">

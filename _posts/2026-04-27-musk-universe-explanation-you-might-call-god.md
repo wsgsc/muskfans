@@ -15,7 +15,6 @@ categories: [quotes]
 
 也正因为如此，马斯克这句话并不是在给出终点答案，而是在提醒我们：对宇宙保持敬畏，对真相保持好奇，或许本身就是理解世界的一部分。
 
-——来源：X 视频片段整理
 
 <video style="width:100%;aspect-ratio:16/9;" controls>
   <source src="/assets/video/musk-universe-explanation-you-might-call-god.mp4" type="video/mp4">

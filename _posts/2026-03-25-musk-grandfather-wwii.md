@@ -15,7 +15,6 @@ categories: [long]
 
 如今还活着的人里，能记得二战的还有多少呢？"
 
-——出自2023年11月9日接受莱克斯·弗里德曼采访
 
 <video style="width:100%;aspect-ratio:16/9;" controls>
   <source src="/assets/video/musk-grandfather-wwii.mp4" type="video/mp4">

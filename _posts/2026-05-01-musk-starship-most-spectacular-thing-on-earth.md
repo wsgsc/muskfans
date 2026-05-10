@@ -13,7 +13,6 @@ categories: [quotes]
 
 从这段话能看出来，马斯克想传递的不只是对一次发射的兴奋，而是对整个 Starship 项目的判断：这是一个正在发生、而且足以载入历史的超级工程。
 
-——The Joe Rogan Experience, October 31, 2025
 
 <video style="width:100%;aspect-ratio:16/9;" controls>
   <source src="/assets/video/musk-starship-most-spectacular-thing-on-earth.mp4" type="video/mp4">

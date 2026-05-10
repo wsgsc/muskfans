@@ -19,7 +19,6 @@ categories: [quotes]
 
 换句话说，马斯克所说的“富足时代”，本质上不是简单的增长，而是一次对稀缺逻辑本身的改写。
 
-——X Freeze, April 17, 2026
 
 <video style="width:100%;aspect-ratio:16/9;" controls>
   <source src="/assets/video/musk-age-of-abundance-near-zero-cost.mp4" type="video/mp4">

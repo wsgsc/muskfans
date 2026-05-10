@@ -17,7 +17,6 @@ categories: [quotes]
 
 这也是很多人误解马斯克的地方：他并不是一个因为“过度自信”才不断创业的人，而更像是一个即便充分意识到失败风险，仍然愿意为高潜力方向冒险的人。
 
-——Interview at Y Combinator, June 16, 2025
 
 <video style="width:100%;aspect-ratio:16/9;" controls>
   <source src="/assets/video/musk-thought-first-company-would-fail.mp4" type="video/mp4">

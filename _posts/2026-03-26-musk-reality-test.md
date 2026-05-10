@@ -17,7 +17,6 @@ categories: [long]
 
 物理是你唯一无法欺骗的东西。"
 
-——2026年2月5日，接受约翰·科里森与德瓦克什·帕特尔的采访
 
 <video style="width:100%;aspect-ratio:16/9;" controls>
   <source src="/assets/video/musk-reality-test.mp4" type="video/mp4">

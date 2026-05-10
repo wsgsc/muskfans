@@ -17,7 +17,6 @@ categories: [quotes]
 
 在马斯克看来，这不只是科技进步的问题，而是整个人类文明能否从“稀缺竞争”走向“普遍富足”的关键转折点。
 
-——Tesla Owners Silicon Valley, April 16, 2026
 
 <video style="width:100%;aspect-ratio:16/9;" controls>
   <source src="/assets/video/musk-ai-robotics-path-to-abundance.mp4" type="video/mp4">

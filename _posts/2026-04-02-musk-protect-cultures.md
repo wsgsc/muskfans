@@ -11,7 +11,6 @@ categories: [quotes]
 
 目前，低出生率、多元文化主义和全球主义正在导致各种文化的稀释、破坏和消亡——这对未来来说是非常糟糕的。"
 
-——2025年8月3日《世界报》经济峰会
 
 <video style="width:100%;aspect-ratio:16/9;" controls>
   <source src="/assets/video/musk-protect-cultures.mp4" type="video/mp4">

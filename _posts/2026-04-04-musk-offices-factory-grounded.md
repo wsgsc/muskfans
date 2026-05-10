@@ -13,7 +13,6 @@ categories: [quotes]
 
 这样你就能看到工厂里真实的情况，保持脚踏实地。”
 
-——《华尔街日报》采访，2021年12月7日
 
 <video style="width:100%;aspect-ratio:16/9;" controls>
   <source src="/assets/video/musk-offices-factory-grounded.mp4" type="video/mp4">

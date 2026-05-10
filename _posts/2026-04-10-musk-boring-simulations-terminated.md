@@ -11,7 +11,6 @@ categories: [quotes]
 
 可以说，最重要的事情就是让一切保持足够有趣，这样那些在某类‘宇宙级AWS’上付账单的人——无论我们运行在什么等价平台上——才会愿意继续支付他们的‘宇宙级AWS账单’。只要我们足够有趣，他们就会一直付下去。”
 
-——2026年2月5日接受约翰·科里森与德瓦克什·帕特尔采访时的发言
 
 <video style="width:100%;aspect-ratio:16/9;" controls>
   <source src="/assets/video/musk-boring-simulations-terminated.mp4" type="video/mp4">

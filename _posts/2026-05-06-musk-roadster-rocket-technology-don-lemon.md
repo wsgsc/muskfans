@@ -12,7 +12,6 @@ Don Lemon 感叹说这让他有了"杰森一家"的感觉，马斯克完全认�
 
 马斯克最后说道："我认为没有人会再做出像我们将要推出的这款 Roadster 一样的东西。"
 
-——Elon Musk on the Don Lemon Show, March 16, 2024
 
 <video style="width:100%;aspect-ratio:16/9;" controls>
   <source src="/assets/video/musk-roadster-rocket-technology-don-lemon.mp4" type="video/mp4">

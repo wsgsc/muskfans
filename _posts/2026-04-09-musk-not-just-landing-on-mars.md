@@ -11,7 +11,6 @@ categories: [quotes]
 
 这就是未来的关键时刻:我们所知的生命命运将永远被改变的时刻，就是火星实现自给自足的那一刻。”
 
-——《福克斯新闻》杰西·沃特斯采访，2025年5月6日
 
 <video style="width:100%;aspect-ratio:16/9;" controls>
   <source src="/assets/video/musk-self-sustaining-city-on-mars.mp4" type="video/mp4">

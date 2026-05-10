@@ -20,7 +20,6 @@ category: quotes
 
 但马斯克认为，这种看法是错的。真正健康的目标，不是去分别人手里的蛋糕，而是努力把整个经济蛋糕做大，创造出比自己消耗更多的价值。
 
-——via X @jaynitx, May 6, 2026
 
 <video style="width:100%;aspect-ratio:16/9;" controls>
   <source src="/assets/video/musk-young-people-be-useful-read-broadly.mp4" type="video/mp4">

@@ -19,7 +19,6 @@ categories: [quotes]
 
 如果这条路径成立，那么我们真正的问题也许从来不是“能源快不够了”，而是我们长期习惯于低头向地下寻找答案，却忽略了最巨大的能源源头一直就在上方。
 
-——Dustin @r0ck3t23，2026年4月26日
 
 <video style="width:100%;aspect-ratio:16/9;" controls>
   <source src="/assets/video/musk-solar-battery-future.mp4" type="video/mp4">

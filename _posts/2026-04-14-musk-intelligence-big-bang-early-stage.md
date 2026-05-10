@@ -13,7 +13,6 @@ categories: [quotes]
 
 所以，我们正处在智能大爆炸的非常、非常早期阶段。”
 
-——Elon Musk at Y Combinator, June 16, 2025
 
 <video style="width:100%;aspect-ratio:16/9;" controls>
   <source src="/assets/video/musk-intelligence-big-bang-early-stage.mp4" type="video/mp4">

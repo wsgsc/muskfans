@@ -21,7 +21,6 @@ categories: [quotes]
 
 无论是创业、做产品，还是过日常生活，这都是一个极强的判断尺度：你是在消耗系统，还是在建设系统；你是在索取注意力，还是在创造真实价值。
 
-——来源：X 视频片段整理
 
 <video style="width:100%;aspect-ratio:16/9;" controls>
   <source src="/assets/video/musk-make-more-than-you-take.mp4" type="video/mp4">

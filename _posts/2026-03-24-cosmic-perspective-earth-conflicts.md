@@ -11,7 +11,6 @@ categories: [long]
 
 我们渴望成为这样的文明：用宇宙飞船将足迹拓展至银河，让每个人都能随时前往任何向往之地——那将何等壮丽。在月球建立城市，在火星建造都市，让整个太阳系遍布人类文明的星火，再派遣星际飞船探索其他恒星系统。这无疑是最值得期许的未来。"
 
-——2026年3月21日，特雷法布发布会发言
 
 <video style="width:100%;aspect-ratio:16/9;" controls>
   <source src="/assets/video/musk-cosmic-perspective.mp4" type="video/mp4">

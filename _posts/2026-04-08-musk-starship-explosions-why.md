@@ -11,7 +11,6 @@ categories: [quotes]
 
 比如，在你们看到的那次飞行中，我们故意在一些最糟糕的位置取下星舰的隔热瓦，来测试：如果我们在这里失去一块隔热瓦，会不会造成灾难性后果？尽管如此，星舰依然成功在澳大利亚以西的印度洋实现了软着陆。”
 
-——《乔·罗根体验》，2025年10月31日
 
 <video style="width:100%;aspect-ratio:16/9;" controls>
   <source src="/assets/video/musk-starship-explosions-why.mp4" type="video/mp4">

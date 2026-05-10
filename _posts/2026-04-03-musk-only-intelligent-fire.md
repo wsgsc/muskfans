@@ -9,7 +9,6 @@ categories: [quotes]
 
 成为一个多行星物种，或者说让意识遍布多个行星，将极大地延长文明的可能存续时间。这是前往其他恒星系统之前必须迈出的下一步。一旦你至少拥有两个行星，你就有了推动太空旅行技术提升的驱动力。而最终，这将引导意识扩展至星际之间。”
 
-——2025年6月16日于Y Combinator访谈
 
 <video style="width:100%;aspect-ratio:16/9;" controls>
   <source src="/assets/video/musk-only-intelligent-species.mp4" type="video/mp4">

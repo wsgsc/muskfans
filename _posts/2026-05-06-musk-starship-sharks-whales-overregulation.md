@@ -18,7 +18,6 @@ category: quotes
 
 在马斯克看来，真正让人痛苦的，不是认真做工程，也不是认真做安全分析，而是这种一层又一层、越来越脱离现实的过度监管。它会把本来应该用来推进技术、解决问题的精力，消耗在无穷无尽的荒诞细节里。
 
-——via X @HighSignal_AI, May 5, 2026
 
 <video style="width:100%;aspect-ratio:16/9;" controls>
   <source src="/assets/video/musk-starship-sharks-whales-overregulation.mp4" type="video/mp4">

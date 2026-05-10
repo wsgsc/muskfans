@@ -11,7 +11,6 @@ categories: [quotes]
 
 但随着 Neuralink 以及这家公司正在取得的进展，我们将开始更多地理解意识。”
 
-——Neuralink Update, June 27, 2025
 
 <video style="width:100%;aspect-ratio:16/9;" controls>
   <source src="/assets/video/musk-neuralink-understand-consciousness.mp4" type="video/mp4">

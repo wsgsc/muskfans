@@ -7,7 +7,6 @@ categories: [quotes]
 
 可能到明年年底，我们将开始向公众销售人形机器人。那时，我们确信它拥有极高的可靠性、极高的安全性，并且功能范围也非常广。基本上，你可以让它做你想做的任何事情。"
 
-——世界经济论坛采访，2026年1月22日
 
 <video style="width:100%;aspect-ratio:16/9;" controls>
   <source src="/assets/video/optimus-for-public-sale.mp4" type="video/mp4">

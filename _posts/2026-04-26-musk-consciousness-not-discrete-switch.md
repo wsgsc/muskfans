@@ -15,7 +15,6 @@ categories: [quotes]
 
 那也会把问题重新抛回给我们：存在，究竟意味着什么？”
 
-——Neuralink Update, June 27, 2025
 
 <video style="width:100%;aspect-ratio:16/9;" controls>
   <source src="/assets/video/musk-consciousness-not-discrete-switch.mp4" type="video/mp4">

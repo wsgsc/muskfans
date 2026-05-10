@@ -7,6 +7,5 @@ categories: [quotes]
 
 1995年我们创办Zip2时，我背负着超过10万美元的学生贷款，只有一台自己组装的电脑和几千美元积蓄。"
 
-——埃隆·马斯克
 
 ![埃隆·马斯克](/assets/img/musk-silver-spoon.png)

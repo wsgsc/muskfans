@@ -15,7 +15,6 @@ categories: [quotes]
 
 这段话几乎把创业顺序压缩成了四步：先建立硬能力，再组队，再验证，再融资。重点不是先讲故事，而是先把东西做出来。
 
-——via X @iam_smx, April 13, 2026
 
 <video style="width:100%;aspect-ratio:16/9;" controls>
   <source src="/assets/video/musk-start-company-engineering-prototype.mp4" type="video/mp4">

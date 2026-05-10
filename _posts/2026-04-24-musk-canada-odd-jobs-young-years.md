@@ -17,7 +17,6 @@ categories: [quotes]
 
 从今天回头看，这种在陌生环境里快速适应、不断寻找下一步出路的能力，或许正是他后来一次次闯入新行业的重要起点。
 
-——Eva Fox，2026年4月24日
 
 <video style="width:100%;aspect-ratio:16/9;" controls>
   <source src="/assets/video/musk-canada-odd-jobs-young-years.mp4" type="video/mp4">

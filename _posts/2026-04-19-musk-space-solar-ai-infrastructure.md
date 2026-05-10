@@ -15,7 +15,6 @@ categories: [quotes]
 
 如果这一路径成立，那么先进计算所需的能源供给方式也会被重新定义。今天人们还在讨论如何为越来越大的 AI 模型寻找更多电力，而马斯克给出的方向是：与其在地面不断争夺稀缺资源，不如把目光转向轨道，把能源和算力一起迁移到一个更容易持续扩张的环境里。
 
-——via X @XCorpHub, Apr 18, 2026
 
 <video style="width:100%;aspect-ratio:16/9;" controls>
   <source src="/assets/video/musk-space-solar-ai-infrastructure.mp4" type="video/mp4">

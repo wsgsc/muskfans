@@ -11,7 +11,6 @@ categories: [quotes]
 
 我们设定同意年龄是有原因的：未满18岁不能纹身、不能饮酒、不能驾车。如果我们在孩子10岁、12岁、14岁时就允许他们采取不可逆的行动，他们将来会非常后悔。"
 
-——2024年7月22日接受乔丹·彼得森采访
 
 <video style="width:100%;aspect-ratio:16/9;" controls>
   <source src="/assets/video/musk-gender-identity.mp4" type="video/mp4">

@@ -13,7 +13,6 @@ categories: [quotes]
 
 在他的逻辑里，真相未必总是悦耳，但它具有长期复利。一个愿意面对现实的人，才能做出更好的判断；一个愿意坚持真实的平台，才可能真正成为公众获取信息的依靠。
 
-——Conversation with Rishi Sunak, November 2, 2023
 
 <video style="width:100%;aspect-ratio:16/9;" controls>
   <source src="/assets/video/musk-truth-pays-x-platform.mp4" type="video/mp4">

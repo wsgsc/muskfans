@@ -17,7 +17,6 @@ categories: [quotes]
 
 所以这段话真正传递出的，不只是乐观，而是一个更大的判断：未来的变化不会只是“更好一点”，而可能是让今天整个时代看起来都像技术文明的远古阶段。
 
-——xAI Grok 4 presentation, July 9, 2025
 
 <video style="width:100%;aspect-ratio:16/9;" controls>
   <source src="/assets/video/musk-human-economy-will-look-prehistoric.mp4" type="video/mp4">

@@ -9,7 +9,6 @@ categories: [long]
 
 至于通用的人生建议，我想我会建议人们尽可能多地学习。大量阅读书籍，尝试各种事物，并且……享受生活。但要知道，工作也是享受生活的一部分。"
 
-——采访安德烈·泰里希 / 特斯拉柏林超级工厂，2026年2月26日
 
 <video style="width:100%;aspect-ratio:16/9;" controls>
   <source src="/assets/video/musk-advice-for-young-people.mp4" type="video/mp4">

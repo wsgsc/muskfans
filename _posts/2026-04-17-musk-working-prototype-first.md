@@ -15,7 +15,6 @@ categories: [quotes]
 
 一个可运行的原型，远比十页商业计划书更有说服力。它不仅能降低外界的怀疑，也能让团队自己更清楚：你们到底是在追逐幻想，还是在推进一个真正可能发生的未来。
 
-——SMX, April 17, 2026
 
 <video style="width:100%;aspect-ratio:16/9;" controls>
   <source src="/assets/video/musk-working-prototype-first.mp4" type="video/mp4">

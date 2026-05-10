@@ -13,7 +13,6 @@ categories: [quotes]
 
 "驱使我的，是好奇心。"
 
-——2024年10月7日，塔克·卡尔森专访
 
 <video style="width:100%;aspect-ratio:16/9;" controls>
   <source src="/assets/video/musk-creator-interview-tucker.mp4" type="video/mp4">

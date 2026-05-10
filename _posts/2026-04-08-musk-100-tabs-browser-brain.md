@@ -12,7 +12,6 @@ categories: [quotes]
 于是我会听一本有声书，设一个15分钟的定时器。就像手机在给我讲睡前故事。
 播客和有声书在睡前特别好用。”
 
-——特斯拉全员大会，2025年3月20日
 
 <video style="width:100%;aspect-ratio:16/9;" controls>
   <source src="/assets/video/musk-100-tabs-browser-brain.mp4" type="video/mp4">

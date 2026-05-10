@@ -23,7 +23,6 @@ categories: [quotes]
 
 马斯克这番话的锋芒，其实并不只是批评大学，而是在提醒年轻人：真正决定你价值的，不是你是否完成了一套标准动作，而是你是否真的具备创造、解决问题和做出成果的能力。
 
-——Dustin, April 14, 2026
 
 <video style="width:100%;aspect-ratio:16/9;" controls>
   <source src="/assets/video/musk-college-not-for-learning.mp4" type="video/mp4">

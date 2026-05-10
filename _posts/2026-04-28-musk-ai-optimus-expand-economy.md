@@ -17,7 +17,6 @@ categories: [quotes]
 
 也正因如此，马斯克最后才会用一句非常直白的话收尾：拿好你的特斯拉股票。
 
-——Tesla Shareholder Meeting, November 6, 2025
 
 <video style="width:100%;aspect-ratio:16/9;" controls>
   <source src="/assets/video/musk-ai-optimus-expand-economy.mp4" type="video/mp4">

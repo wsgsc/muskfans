@@ -13,7 +13,6 @@ categories: [quotes]
 
 马斯克的核心意思很清楚：社会如果想保持公平，就必须回到最朴素的原则——看人才，看努力，看诚信。
 
-——Conversation with Tommy Robinson, September 13, 2025
 
 <video style="width:100%;aspect-ratio:16/9;" controls>
   <source src="/assets/video/musk-merit-fairness-talent-integrity.mp4" type="video/mp4">

@@ -17,7 +17,6 @@ categories: [quotes]
 
 马斯克说：“人们误以为技术会自动进步，其实不会。它只会在很多人非常努力地让它变得更好的情况下才会进步。”
 
-——Elonogy @ElonogyX，2026年4月25日
 
 <video style="width:100%;aspect-ratio:16/9;" controls>
   <source src="/assets/video/musk-technology-does-not-improve-automatically.mp4" type="video/mp4">

@@ -13,7 +13,6 @@ categories: [quotes]
 > 如果你把汽车制造的技术应用到卫星和火箭上，那就像是超人。
 > 然后你把火箭上的先进材料科学应用到汽车上，你又变成了超人。”
 
-——来源:elonmusk，niccruzpatane
 
 
 

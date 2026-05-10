@@ -17,7 +17,6 @@ categories: [quotes]
 
 很多伟大的公司擅长改良产品，但真正改变行业方向的人，往往先改变的是思考问题的起点。
 
-——Tesla Owners Silicon Valley，2026年4月23日
 
 <video style="width:100%;aspect-ratio:16/9;" controls>
   <source src="/assets/video/musk-innovation-fundamental-truths.mp4" type="video/mp4">

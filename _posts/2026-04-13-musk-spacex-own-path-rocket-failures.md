@@ -13,7 +13,6 @@ categories: [quotes]
 
 真正的创业，不是等所有人都看好之后再出发，而是即使看过所有失败，依然选择亲自去试。
 
-——via X @XCorpHub, April 13, 2026
 
 <video style="width:100%;aspect-ratio:16/9;" controls>
   <source src="/assets/video/musk-spacex-own-path-rocket-failures.mp4" type="video/mp4">

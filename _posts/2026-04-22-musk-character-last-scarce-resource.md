@@ -31,7 +31,6 @@ categories: [quotes]
 
 这也许才是未来最难被复制的竞争力。
 
-——Dustin，2026年4月22日
 
 <video style="width:100%;aspect-ratio:16/9;" controls>
   <source src="/assets/video/musk-character-last-scarce-resource.mp4" type="video/mp4">

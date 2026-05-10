@@ -15,7 +15,6 @@ categories: [quotes]
 
 换句话说，技能可以训练，经验可以积累，但一个人的底层驱动力与品格，通常才决定他能否进入最硬核的团队。
 
-——Tesla Owners Silicon Valley，2026年4月15日
 
 <video style="width:100%;aspect-ratio:16/9;" controls>
   <source src="/assets/video/musk-fundamental-traits-cannot-change.mp4" type="video/mp4">

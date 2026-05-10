@@ -17,7 +17,6 @@ categories: [quotes]
 
 这段话的重点并不复杂：友谊的价值，不在热闹时的陪伴，而在低谷时的留下。能陪你走过风暴的人，才是真正的资产。
 
-——via X @XFreeze quoting @elonmusk, April 13, 2026
 
 <video style="width:100%;aspect-ratio:16/9;" controls>
   <source src="/assets/video/musk-ultimate-friendship-test.mp4" type="video/mp4">

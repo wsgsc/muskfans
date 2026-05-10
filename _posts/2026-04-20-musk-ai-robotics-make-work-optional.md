@@ -15,7 +15,6 @@ categories: [quotes]
 
 当然，这种未来是否会顺利到来，仍然取决于技术成熟度、能源供给、成本下降速度以及社会制度如何跟上。但至少在马斯克看来，AI 与机器人并行加速，最终会把人类从“必须工作才能获得生活资料”的旧模式里逐步解放出来。
 
-——via X @XFreeze, Apr 20, 2026
 
 <video style="width:100%;aspect-ratio:1/1;" controls>
   <source src="/assets/video/musk-ai-robotics-make-work-optional.mp4" type="video/mp4">

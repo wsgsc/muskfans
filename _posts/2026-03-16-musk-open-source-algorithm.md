@@ -11,7 +11,6 @@ categories: [long]
 
 X聊天也将实现开源，这样你就能检查是否存在任何安全隐患。X聊天系统内不会设置任何广告投放或其他类似功能的入口，这确实是为了实现一个真正通用的通讯系统。"
 
-——xAI全体会议，2026年2月10日
 
 <video style="width:100%;aspect-ratio:16/9;" controls>
   <source src="/assets/video/musk-open-source-algorithm.mp4" type="video/mp4">

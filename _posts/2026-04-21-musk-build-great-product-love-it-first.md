@@ -15,7 +15,6 @@ categories: [quotes]
 
 对创业者、产品经理，甚至任何做内容和做创造性工作的人来说，这都是一个很重要的提醒：伟大作品通常不是从讨好开始，而是从热爱开始。
 
-——via X @XFreeze, Apr 22, 2026
 
 <video style="width:100%;aspect-ratio:16/9;" controls>
   <source src="/assets/video/musk-build-great-product-love-it-first.mp4" type="video/mp4">

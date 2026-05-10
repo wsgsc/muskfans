@@ -21,7 +21,6 @@ categories: [quotes]
 
 到那时，“死亡”也许不再只是生命必然终止的时刻，而更像一次尚未完成备份的数据丢失。
 
-——Dustin on X, April 17, 2026
 
 <video style="width:100%;aspect-ratio:16/9;" controls>
   <source src="/assets/video/musk-brain-state-save-like-video-game.mp4" type="video/mp4">

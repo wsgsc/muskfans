@@ -19,7 +19,6 @@ categories: [quotes]
 
 也正因为如此，Neuralink 真正提出的问题，可能不是“未来能不能更高效地学习”，而是：当一个人花二十年才成为的东西，别人可以在二十秒内下载完成时，人到底还要如何定义自己。
 
-——Dustin, May 5, 2026
 
 <video style="width:100%;aspect-ratio:16/9;" controls>
   <source src="/assets/video/musk-neuralink-skills-upload-identity.mp4" type="video/mp4">

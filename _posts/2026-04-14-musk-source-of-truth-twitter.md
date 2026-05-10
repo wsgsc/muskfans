@@ -13,7 +13,6 @@ BBC 记者问：“如果现在有人出价 440 亿美元收购 Twitter，你会
 
 他真正看重的，是信息平台是否还能尽最大努力接近真实，是否还能成为普通人判断世界时可以依靠的坐标。
 
-——BBC Interview, April 11, 2023
 
 <video style="width:100%;aspect-ratio:16/9;" controls>
   <source src="/assets/video/musk-source-of-truth-twitter.mp4" type="video/mp4">

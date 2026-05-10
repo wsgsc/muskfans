@@ -27,7 +27,6 @@ categories: [quotes]
 
 也正因如此，他才会把 Optimus 视作比自动驾驶更大的估值增量来源。
 
-——ELON CLIPS，2026年4月23日
 
 <video style="width:100%;aspect-ratio:16/9;" controls>
   <source src="/assets/video/musk-tesla-25-trillion-optimus.mp4" type="video/mp4">

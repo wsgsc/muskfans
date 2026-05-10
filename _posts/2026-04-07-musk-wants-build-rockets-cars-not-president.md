@@ -13,7 +13,6 @@ categories: [quotes]
 
 你可以去看我20年前的演讲，我说的还是同样的话。我相信人类应该成为星际文明，走向星辰大海，为此我们需要伟大的火箭技术。我相信电动车、自动化、自动驾驶、机器人，以及天基互联网。我就是热爱创造那些让人们觉得有用的技术，这就是我想花时间做的事。”
 
-——2024年10月20日于宾夕法尼亚州匹兹堡
 
 <video style="width:100%;aspect-ratio:16/9;" controls>
   <source src="/assets/video/musk-wants-build-rockets-cars-not-president.mp4" type="video/mp4">

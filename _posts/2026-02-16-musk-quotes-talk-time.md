@@ -17,7 +17,6 @@ categories: [quotes]
 
 某种程度上，我大概是病态般地乐观吧。”
 
-——2021年8月7日，《Everyday Astronaut》星舰基地参观采访
 
 
 
