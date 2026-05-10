@@ -47,7 +47,6 @@ categories: quotes
 
 在你的行业里，哪条供应链已经预订到了下一个十年？
 
-—— 埃隆·马斯克（@elonmusk），特斯拉和SpaceX CEO，在Dwarkesh Patel（@dwarkesh_sp）的播客上
 
 <video style="width:100%;aspect-ratio:16/9;" controls>
   <source src="/assets/video/musk-casting-foundries-ai-power-bottleneck.mp4" type="video/mp4">

@@ -11,7 +11,6 @@ categories: [quotes]
 
 他还坦言，这种近乎失控的思维状态，一部分像是天生如此，另一部分则被艰难的童年经历进一步放大。只是到了后来，这种内在的巨大张力，更多被导向了技术、制造和建设性的创造，最终才形成了今天人们看到的生产力。
 
-—— 来源：ElonogyX，X，2026 年 5 月 5 日
 
 <video style="width:100%;aspect-ratio:16/9;" controls>
   <source src="/assets/video/musk-innovation-execution-wild-mind.mp4" type="video/mp4">

@@ -15,7 +15,6 @@ categories: [quotes]
 
 所以，实际上，给汽车注入的智能程度是有上限的，否则那种智能本身就会感到无聊。”
 
-—— 2026 年 2 月 5 日，埃隆·马斯克与 John Collison、Dwarkesh Patel 的访谈
 
 
 

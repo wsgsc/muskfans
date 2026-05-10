@@ -19,7 +19,6 @@ categories: [quotes]
 
 缩小‘从仿真到现实’之间的差距。”
 
-—— 2026 年 2 月 5 日，埃隆·马斯克与 John Collison、Dwarkesh Patel 的访谈
 
 
 

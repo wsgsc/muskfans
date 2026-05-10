@@ -15,7 +15,6 @@ categories: quotes
 
 这是一个非常务实的态度。我们都会犯错，都会后悔，但沉溺于过去没有意义。重要的是接受现实，从错误中学习，然后向前看。
 
-—— 埃隆·马斯克（@elonmusk），特斯拉和SpaceX CEO
 
 <video style="width:100%;aspect-ratio:16/9;" controls>
   <source src="/assets/video/musk-regrets-growth-move-forward.mp4" type="video/mp4">

@@ -13,7 +13,6 @@ categories: [quotes]
 
 这句话背后透露出的，并不是单纯的悲观，而是一种非常工程化的判断：当你面对一个未来会远超自己的系统时，最重要的窗口期，往往不是它已经无比强大的那一刻，而是它仍然可被引导、可被塑形的早期阶段。
 
-—— 2026 年 2 月 5 日，埃隆·马斯克与 John Collison、Dwarkesh Patel 的访谈
 
 <video style="width:100%;aspect-ratio:16/9;" controls>
   <source src="/assets/video/musk-ai-super-genius-child-raised-well.mp4" type="video/mp4">

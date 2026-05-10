@@ -15,7 +15,6 @@ categories: [quotes]
 
 从火箭到电动车，再到机器人和脑机接口，这种“以现实为裁判”的思路，几乎贯穿了马斯克所有重要项目。与其说这是创业建议，不如说它是一条底层原则：任何脱离现实检验的技术乐观，最后都站不住。
 
-—— 2026 年 2 月 5 日，埃隆·马斯克与 John Collison、Dwarkesh Patel 的访谈
 
 <video style="width:100%;aspect-ratio:16/9;" controls>
   <source src="/assets/video/musk-technology-needs-truth-seeking.mp4" type="video/mp4">

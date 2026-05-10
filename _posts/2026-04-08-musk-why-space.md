@@ -15,7 +15,6 @@ categories: [quotes]
 
 这就是为什么我认为这件事值得去做。而且，这是地球四十亿年历史中，第一次有了实现它的可能。那么，这种可能性会持续多久呢？我的意思是，如果一切顺利，显然它会持续很长时间。但如果发生了什么不幸的事，那个在四十亿年里第一次打开的小小窗口，就可能关闭。”
 
-来源：2008年9月18日，Zeitgeist Google Plartner Forum，采访人：乔恩·多尔和彼得·戴曼迪斯
 
 <video style="width:100%;aspect-ratio:16/9;" controls>
   <source src="/assets/video/musk-why-space.mp4" type="video/mp4">

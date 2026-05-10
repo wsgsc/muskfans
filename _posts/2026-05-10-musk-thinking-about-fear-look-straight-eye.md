@@ -16,4 +16,3 @@ categories: quotes
   <source src="/assets/video/musk-look-fear-straight-eye.mp4" type="video/mp4">
 </video>
 
-—— Mars University, May 9, 2026

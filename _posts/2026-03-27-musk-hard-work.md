@@ -16,6 +16,5 @@ categories: [quotes]
 
 每周只工作四十个小时，是永远不可能改变世界的。"
 
-来源：《埃隆·马斯克传》
 
 <img src="/assets/img/musk-hard-work.png" style="width:100%;border-radius:8px;">

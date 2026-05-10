@@ -13,7 +13,6 @@ categories: [quotes]
 
 我认为伊恩·班克斯在他的'文明'系列书中描绘的情景相当接近——在未来，金钱其实不复存在，每个人都享有富足。只要你能想到，你就能拥有。仅此而已。这意味着任何人都可以去土星旅行，而不仅仅是少数人。"
 
-来源：Terafab 发布会，2026年3月21日
 
 <video style="width:100%;aspect-ratio:16/9;" controls>
   <source src="/assets/video/e1.mp4" type="video/mp4">

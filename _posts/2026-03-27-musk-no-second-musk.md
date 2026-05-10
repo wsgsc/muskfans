@@ -13,6 +13,5 @@ categories: [quotes]
 
 你的脑海里必须住着一头愤怒的恶魔，才能驱动你前行。"
 
-来源：《埃隆·马斯克传》
 
 <img src="/assets/img/musk-no-second-musk.png" style="width:100%;border-radius:8px;">

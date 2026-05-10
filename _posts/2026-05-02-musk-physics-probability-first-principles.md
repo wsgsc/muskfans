@@ -11,7 +11,6 @@ categories: [quotes]
 
 这也是为什么马斯克一直建议年轻人去学物理：它训练的不是机械记忆，而是一种在复杂世界里不断逼近真相的能力。
 
-—— 宾夕法尼亚州兰开斯特市政厅对话，2024 年 10 月 24 日
 
 <video style="width:100%;aspect-ratio:16/9;" controls>
   <source src="/assets/video/musk-physics-probability-first-principles.mp4" type="video/mp4">

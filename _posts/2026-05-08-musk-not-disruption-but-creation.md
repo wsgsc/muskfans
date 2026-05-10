@@ -12,7 +12,6 @@ categories: quotes
 
 说到人形机器人，目前根本没有任何真正有用的机器人。市面上有一些噱头产品，但没有任何真正实用的人形机器人。我认为特斯拉将打造出首个真正实用的人形机器人。这将是一场相当彻底的革命。"
 
-—— U.S.-Saudi Investment Forum，2025年11月19日
 
 <video style="width:100%;aspect-ratio:16/9;" controls>
   <source src="/assets/video/musks-not-disruption-but-creation.mp4" type="video/mp4">

@@ -51,7 +51,6 @@ AI的每一次突破都受制于原子。钢铁。混凝土。需要数年制造
 
 你找到了一个掌握了思考却忘记了如何建设的人类文明。
 
-—— Dustin (@r0ck3t23)，基于埃隆·马斯克的访谈
 
 <video style="width:100%;aspect-ratio:16/9;" controls>
   <source src="/assets/video/musk-ai-bottleneck-physical-world-building.mp4" type="video/mp4">

@@ -21,7 +21,6 @@ categories: [quotes]
 
 如果这些都具备，专业领域的知识是可以后天补上的，但这些底层特质、这些基本属性，是改不了的。”
 
-—— 2026 年 2 月 5 日，埃隆·马斯克与 John Collison、Dwarkesh Patel 的访谈
 
 
 

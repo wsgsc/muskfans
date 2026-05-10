@@ -20,7 +20,6 @@ Saxon 有点类似自闭症，但马斯克觉得他是"一个充满智慧的存�
 
 这个故事看似平淡，却道出了一个被忽略许久的道理：餐厅的价值，不只是食物，而是人与陌生人之间那种偶然的、轻松的连接。
 
-—— @astro_greek，2026年5月9日
 
 <video style="width:100%;aspect-ratio:16/9;" controls>
   <source src="/assets/video/musk-saxon-restaurant-epiphany.mp4" type="video/mp4">
