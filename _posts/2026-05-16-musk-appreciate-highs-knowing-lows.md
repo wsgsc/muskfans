@@ -14,6 +14,8 @@ categories: quotes
 
 来源:Lex Fridman 访谈，2023 年 11 月 9 日
 
-视频：https://video.twimg.com/ext_tw_video/2055644477499334658/pu/vid/avc1/1280x720/28tvce8XzpFngH1L.mp4?tag=12
+<video style="width:100%;aspect-ratio:16/9;" controls>
+  <source src="/assets/video/musk-highs-lows-hate-evolved.mp4" type="video/mp4">
+</video>
 
 ——Elon Clips, May 16, 2026
