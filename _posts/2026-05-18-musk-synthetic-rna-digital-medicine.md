@@ -11,4 +11,6 @@ categories: [quotes]
 
 如果你只需要知道在合成RNA链中编写什么，你基本上可以治愈任何疾病。”
 
-——福布斯采访，2026年5月18日
+<video style="width:100%;aspect-ratio:16/9;" controls>
+  <source src="/assets/video/musk-synthetic-rna-digital-medicine.mp4" type="video/mp4">
+</video>

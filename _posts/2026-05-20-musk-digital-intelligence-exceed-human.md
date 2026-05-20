@@ -12,3 +12,7 @@ categories: [quotes]
 "由于AI和机器人技术可能大幅提高产出，经济规模可能在5到7年内翻倍。"
 
 "变化速度如此之快，短短几年内世界可能会看起来完全不同。"
+
+<video style="width:100%;aspect-ratio:16/9;" controls>
+  <source src="/assets/video/musk-digital-intelligence-exceed-human.mp4" type="video/mp4">
+</video>
