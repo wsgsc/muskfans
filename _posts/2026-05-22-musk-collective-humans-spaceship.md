@@ -14,3 +14,6 @@ categories: [quotes]
 单个人类无法制造宇宙飞船。我自己无法制造宇宙飞船。但通过一群人类，我们可以制造宇宙飞船。所以显然，一群人类有一些质量上不同的事情。”
 
 ——Nikhil Kamath 访谈，2025年11月30日
+
+<video style="width:100%;aspect-ratio:16/9;" controls><source src="/assets/video/musk-collective-humans-spaceship.mp4" type="video/mp4"></video>
+
