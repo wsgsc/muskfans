@@ -3,9 +3,9 @@ theme: jekyll-theme-chirpy
 lang: zh-CN
 timezone: Asia/Shanghai
 
-title: 马斯克铁粉站
-tagline: 最大中文马斯克粉丝内容站
-description: Elon Musk 深度档案库
+title: 马斯克铁粉站｜埃隆·马斯克动态、语录与深度资料
+tagline: 中文马斯克资料库与长期观察
+description: 马斯克中文资料库，整理埃隆·马斯克关于 Tesla、SpaceX、xAI、Neuralink、机器人、人工智能和第一性原理的演讲、访谈、推文与深度分析。
 
 bitcoin_donation: bc1q9lpnz0hl0vzyv3hlskmadjkgmt6alqugxvj5aq
 
