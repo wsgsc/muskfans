@@ -7,6 +7,24 @@ title: 马斯克铁粉站
 tagline: 最大中文马斯克粉丝内容站
 description: Elon Musk 深度档案库
 
+bitcoin_donation: bc1q9lpnz0hl0vzyv3hlskmadjkgmt6alqugxvj5aq
+
+category_names:
+  companies: 公司
+  gossip: 周边
+  long: 深度
+  news: 新闻
+  quotes: 语录
+  tweets: 推文
+
+category_descriptions:
+  companies: Tesla、SpaceX、Neuralink 等公司相关内容
+  gossip: 马斯克的个人动态、家庭和周边信息
+  long: 较长篇幅的深度文章和专题分析
+  news: 重要事件和最新消息
+  quotes: 马斯克的演讲、采访和观点整理
+  tweets: 马斯克在 X 上发布的推文内容
+
 url: "https://muskfans.cn"
 
 github:
@@ -35,6 +53,15 @@ kramdown:
 
 plugins:
   - jekyll-paginate
+  - jekyll-archives
+
+jekyll-archives:
+  enabled:
+    - categories
+  layouts:
+    category: category
+  permalinks:
+    category: /categories/:name/
 
 collections:
   tabs:

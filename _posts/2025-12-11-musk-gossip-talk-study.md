@@ -1,6 +1,6 @@
 ---
 title: 埃隆·马斯克:你只需要一部手机、网络，再加上 Grok，几乎就能学习任何知识。
-categories: [gossip]
+categories: [quotes]
 ---
 
 埃隆·马斯克:
