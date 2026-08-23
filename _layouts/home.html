@@ -47,17 +47,49 @@ layout: default
 {% endif %}
 
 <style>
+  #breadcrumb { display: none; }
   #post-list .post-summary { display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
   #post-list .home-meta { color: var(--text-muted-color); font-size: .82rem; opacity: .82; }
   #post-list .home-meta .categories { margin-left: .25rem; }
   #post-list .card-wrapper { margin-bottom: 1rem; }
   #post-list .meta-separator { margin: 0 .35rem; }
-   (max-width: 575.98px) { #post-list .card-body { padding: 1rem; } #post-list .post-meta { align-items: flex-start !important; } }
+  .site-intro {
+    border-bottom: 1px solid var(--main-border-color);
+    padding-bottom: 1rem;
+  }
+  .site-intro__title {
+    color: var(--heading-color);
+    font-size: 1.05rem;
+    font-weight: 600;
+    line-height: 1.4;
+    margin: 0;
+  }
+  .site-intro__title span {
+    color: var(--text-muted-color);
+    font-size: .78rem;
+    font-weight: 400;
+    margin-left: .6rem;
+  }
+  .site-intro__copy {
+    color: var(--text-muted-color);
+    font-size: .88rem;
+    line-height: 1.75;
+    margin: .35rem 0 0;
+    max-width: 48rem;
+  }
+  @media (max-width: 575.98px) {
+    #post-list .card-body { padding: 1rem; }
+    #post-list .post-meta { align-items: flex-start !important; }
+    .site-intro__title span { display: block; margin: .1rem 0 0; }
+  }
 </style>
 
 <section class="site-intro px-xl-1 mb-4" aria-labelledby="site-intro-title">
-  <p class="mb-0">
-    马斯克铁粉站持续整理 Elon Musk 在 Tesla、SpaceX、xAI、Neuralink 和 Optimus 等项目中的公开演讲、访谈、推文与重要事件，并补充原始来源、背景和时间线，方便中文读者长期查找和理解马斯克的工程、商业与未来观点。
+  <p class="site-intro__title" id="site-intro-title">
+    中文马斯克资料库 <span>Musk Fans Hub</span>
+  </p>
+  <p class="site-intro__copy">
+    整理 Elon Musk 的公开观点与重要事件，补充来源和背景，方便按时间线长期查找。
   </p>
 </section>
 
