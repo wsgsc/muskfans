@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 埃隆·马斯克：创建成功公司其实很简单
-date: 2026-05-15 10:11:00 +0800
+date: 2026-08-06 10:11:00 +0800
 categories: quotes
 ---
 

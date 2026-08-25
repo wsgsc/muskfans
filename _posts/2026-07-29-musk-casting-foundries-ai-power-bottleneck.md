@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 埃隆·马斯克：三铸造厂如何通过2030年阻断美国AI电力扩张
-date: 2026-05-10
+date: 2026-07-29
 categories: quotes
 ---
 

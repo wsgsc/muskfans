@@ -1,6 +1,6 @@
 ---
 title: 埃隆·马斯克：关于超智能AI的思考
-date: 2026-05-07
+date: 2026-07-24
 categories: quotes
 ---
 

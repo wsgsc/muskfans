@@ -1,7 +1,7 @@
 ---
 title: 埃隆·马斯克：通过自动翻译打造人类的集体意识
 layout: post
-date: 2026-05-15
+date: 2026-08-05
 categories: quotes
 ---
 
