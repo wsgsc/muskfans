@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 埃隆·马斯克：AI发展的真正瓶颈是什么
-date: 2026-07-28
+date: 2026-07-27
 categories: quotes
 ---
 

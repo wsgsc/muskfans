@@ -1,6 +1,6 @@
 ---
 title: 埃隆·马斯克谈中国的人才与基础设施
-date: 2026-08-03
+date: 2026-08-02
 categories: quotes
 ---
 
