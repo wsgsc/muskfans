@@ -69,10 +69,46 @@
     </script>
   {% endif %}
 
+
+  <script>
+    (function () {
+      setTimeout(function () {
+      var toggle = document.getElementById("mode-toggle");
+      if (!toggle) return;
+
+      var label = toggle.querySelector(".mode-toggle__label");
+      var sun = toggle.querySelector(".mode-toggle__sun");
+      var moon = toggle.querySelector(".mode-toggle__moon");
+
+      function updateMode() {
+        var isDark = document.documentElement.getAttribute("data-mode") === "dark";
+        if (!document.documentElement.hasAttribute("data-mode") && window.matchMedia) {
+          isDark = window.matchMedia("(prefers-color-scheme: dark)").matches;
+        }
+        toggle.setAttribute("aria-pressed", String(isDark));
+        toggle.setAttribute("aria-label", isDark ? "切换到明亮模式" : "切换到黑夜模式");
+        label.textContent = isDark ? "明亮模式" : "黑夜模式";
+        sun.classList.toggle("is-active", !isDark);
+        moon.classList.toggle("is-active", isDark);
+      }
+
+      updateMode();
+      window.addEventListener("message", function (event) {
+        if (event.source === window && event.data && event.data.id === "theme-mode") updateMode();
+      });
+      }, 0);
+    })();
+  </script>
+
   <div class="sidebar-bottom d-flex flex-wrap  align-items-center w-100">
     {% unless site.theme_mode %}
-      <button type="button" class="btn btn-link nav-link" aria-label="Switch Mode" id="mode-toggle">
-        <i class="fas fa-adjust"></i>
+      <button type="button" class="btn btn-link nav-link mode-toggle" aria-label="切换到黑夜模式" aria-pressed="false" id="mode-toggle">
+        <span class="mode-toggle__track" aria-hidden="true">
+          <i class="fas fa-sun mode-toggle__sun"></i>
+          <i class="fas fa-moon mode-toggle__moon"></i>
+          <span class="mode-toggle__thumb"></span>
+        </span>
+        <span class="mode-toggle__label">黑夜模式</span>
       </button>
 
       {% if site.data.contact.size > 0 %}

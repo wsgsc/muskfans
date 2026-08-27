@@ -1,0 +1,71 @@
+---
+---
+
+@use "main";
+
+/* Theme switch in the sidebar */
+#sidebar .sidebar-bottom .mode-toggle {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.55rem;
+  width: auto;
+  min-height: 2.25rem;
+  padding: 0.2rem 0.4rem;
+  color: var(--sidebar-btn-color);
+  text-decoration: none;
+}
+
+#sidebar .sidebar-bottom .mode-toggle:hover,
+#sidebar .sidebar-bottom .mode-toggle:focus-visible {
+  color: var(--sidebar-active-color);
+}
+
+#sidebar .mode-toggle__track {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 3.15rem;
+  height: 1.7rem;
+  padding: 0 0.38rem;
+  border: 1px solid var(--sidebar-btn-color);
+  border-radius: 999px;
+  opacity: 0.9;
+  transition: border-color 0.2s ease, background-color 0.2s ease;
+}
+
+#sidebar .mode-toggle__track i {
+  position: relative;
+  z-index: 1;
+  margin: 0;
+  font-size: 0.68rem;
+  opacity: 0.9;
+}
+
+#sidebar .mode-toggle__sun { color: #d58b00; }
+#sidebar .mode-toggle__moon { color: #8ea9d6; }
+
+#sidebar .mode-toggle__thumb {
+  position: absolute;
+  top: 0.18rem;
+  left: 0.2rem;
+  width: 1.2rem;
+  height: 1.2rem;
+  border-radius: 50%;
+  background: var(--sidebar-btn-color);
+  transition: transform 0.2s ease, background-color 0.2s ease;
+}
+
+#sidebar .mode-toggle[aria-pressed="true"] .mode-toggle__thumb {
+  transform: translateX(1.42rem);
+}
+
+#sidebar .mode-toggle__label {
+  font-size: 0.78rem;
+  line-height: 1.2;
+  white-space: nowrap;
+}
+
+@media (max-width: 991.98px) {
+  #sidebar .sidebar-bottom .mode-toggle { margin-left: auto; }
+}
