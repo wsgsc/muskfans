@@ -50,9 +50,10 @@
       <span class="btc-copy-status small text-success" aria-live="polite"></span>
     </section>
     <style>
+      .btc-donation { flex: 0 0 auto; }
       .btc-donation code { min-width: 0; }
       .btc-copy { color: var(--text-muted-color); }
-       (max-width: 991.98px) { .btc-donation { max-width: 22rem; margin-left: auto; margin-right: auto; } }
+      @media (max-width: 991.98px) { .btc-donation { max-width: 22rem; margin-left: auto; margin-right: auto; } }
     </style>
     <script>
       document.querySelectorAll(".btc-copy").forEach(function (button) {
@@ -100,7 +101,7 @@
     })();
   </script>
 
-  <div class="sidebar-bottom d-flex flex-wrap  align-items-center w-100">
+  <div class="sidebar-bottom d-flex flex-wrap align-items-center w-100">
     {% unless site.theme_mode %}
       <button type="button" class="btn btn-link nav-link mode-toggle" aria-label="切换到黑夜模式" aria-pressed="false" id="mode-toggle">
         <span class="mode-toggle__track" aria-hidden="true">

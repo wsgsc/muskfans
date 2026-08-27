@@ -13,7 +13,12 @@
   padding: 0.2rem 0.4rem;
   color: var(--sidebar-btn-color);
   text-decoration: none;
+  flex: 0 0 auto;
 }
+
+#sidebar nav { min-height: 0; }
+#sidebar .btc-donation { flex-shrink: 0; }
+#sidebar .sidebar-bottom { flex-shrink: 0; }
 
 #sidebar .sidebar-bottom .mode-toggle:hover,
 #sidebar .sidebar-bottom .mode-toggle:focus-visible {
