@@ -1,9 +1,33 @@
 ---
 ---
 
-@use "main";
+/* prettier-ignore */
+/* 生产构建须用 main.bundle（内含 Bootstrap）：
+   head.html 只在非生产环境从 CDN 加载 Bootstrap，
+   若这里写死 @use "main"，生产站点将完全没有 Bootstrap 栅格与工具类。 */
+@use 'main
+{%- if jekyll.environment == 'production' -%}
+  .bundle
+{%- endif -%}
+';
 
-/* Theme switch in the sidebar */
+/* Theme switch in the sidebar
+   主题的 `#sidebar .sidebar-bottom #mode-toggle` 用了两个 id，
+   权重高于类选择器，会把按钮锁成 1.75rem 圆形并让内容溢出。
+   这里用同样的 id 组合提权覆盖。 */
+#sidebar .sidebar-bottom #mode-toggle.mode-toggle {
+  width: auto;
+  height: auto;
+  border-radius: 0.75rem;
+  background-color: transparent;
+  box-shadow: none;
+  margin-bottom: 0;
+}
+
+#sidebar .sidebar-bottom #mode-toggle.mode-toggle:not(:focus-visible) {
+  box-shadow: none;
+}
+
 #sidebar .sidebar-bottom .mode-toggle {
   display: inline-flex;
   align-items: center;
@@ -16,9 +40,12 @@
   flex: 0 0 auto;
 }
 
-#sidebar nav { min-height: 0; }
-#sidebar .btc-donation { flex-shrink: 0; }
-#sidebar .sidebar-bottom { flex-shrink: 0; }
+/* 侧栏是 fixed + height:100% + overflow-y:auto 的 flex 列容器。
+   若任一子项可收缩，视口偏矮时子项会被压到比内容更小，
+   而它们没有 overflow，内容就溢出并与下方元素重合。
+   全部禁止收缩，高度不足时交由 #sidebar 自身滚动。 */
+#sidebar > * { flex-shrink: 0; }
+#sidebar .sidebar-bottom { margin-top: auto; }
 
 #sidebar .sidebar-bottom .mode-toggle:hover,
 #sidebar .sidebar-bottom .mode-toggle:focus-visible {
