@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 星舰 Flight 14 暂定 9 月 22 日发射
-categories: [quotes]
+categories: [news]
 ---
 
 据 FAA 的 Current Operations Plan Advisory（当前运行计划通告）中列出的计划发射信息，Starship Flight 14 暂定于 9 月 22 日从得州 Starbase 进行。

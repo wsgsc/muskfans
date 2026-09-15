@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SpaceX 的下一阶段价值，或将由 AI 基础设施决定
-categories: [quotes]
+categories: [news]
 ---
 
 一段围绕马斯克的访谈片段提出了一个大胆判断：未来四到五年，人工智能相关业务可能占据 SpaceX 价值的 99%，而公司的整体价值也将达到极其惊人的规模。

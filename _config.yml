@@ -12,6 +12,7 @@ bitcoin_donation: bc1q9lpnz0hl0vzyv3hlskmadjkgmt6alqugxvj5aq
 category_names:
   companies: 公司
   gossip: 周边
+  history: 历史
   long: 深度
   news: 新闻
   quotes: 语录
@@ -20,6 +21,7 @@ category_names:
 category_descriptions:
   companies: Tesla、SpaceX、Neuralink 等公司相关内容
   gossip: 马斯克的个人动态、家庭和周边信息
+  history: 配老照片的短叙事，讲童年、家庭与早期创业的细节
   long: 较长篇幅的深度文章和专题分析
   news: 重要事件和最新消息
   quotes: 马斯克的演讲、采访和观点整理

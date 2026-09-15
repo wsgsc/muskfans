@@ -47,11 +47,12 @@
 
 ## 网站内容
 
-本站目前包含 **五大栏目**:
+本站目前包含 **六大栏目**:
 
 | 栏目 | 说明 | 链接 |
 |------|------|------|
 | 📝 **大作文** | 深度解析马斯克现象及思想 | [/long/](https://muskfans.cn/long/) |
+| 📜 **历史** | 配老照片的短叙事文,讲童年、家庭与早期创业 | [/categories/history/](https://muskfans.cn/categories/history/) |
 | 💬 **马斯克名言** | 值得深思的金句与解释 | [/quotes/](https://muskfans.cn/quotes/) |
 | 🐦 **X言X语** | 马斯克在 X 上的发言整理 | [/tweets/](https://muskfans.cn/tweets/) |
 | 😎 **马斯克八卦** | 轻松有趣的幕后故事 | [/gossip/](https://muskfans.cn/gossip/) |
@@ -72,7 +73,7 @@
 ```markdown
 ---
 title: 你的文章标题
-categories: quotes  # 或 long, tweets, gossip, companies
+categories: quotes  # 或 long, tweets, gossip, companies, history, news
 layout: post
 ---
 

@@ -13,12 +13,13 @@ order: 4
 
 ## 这里有什么？
 
-本站目前主要包含六类内容：
+本站目前主要包含七类内容：
 
 | 分类 | 内容 |
 | --- | --- |
 | [公司](/categories/companies/) | Tesla、SpaceX、Neuralink、xAI、X 和 Optimus 等项目与公司动态 |
 | [周边](/categories/gossip/) | 个人经历、家庭、人物故事和其他相关信息 |
+| [历史](/categories/history/) | 配老照片的短叙事文，讲童年、家庭与早期创业的细节 |
 | [深度](/categories/long/) | 对技术、商业、管理和未来议题的较完整整理与分析 |
 | [新闻](/categories/news/) | 值得记录的重要事件和最新进展 |
 | [语录](/categories/quotes/) | 演讲、采访和公开谈话中的观点与原话整理 |
