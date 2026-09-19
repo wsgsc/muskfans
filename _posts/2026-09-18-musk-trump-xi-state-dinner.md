@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 马斯克据报将出席特朗普为习近平举行的国宴
+title: 埃隆·马斯克据报将出席特朗普为习近平举行的国宴
 categories: [news]
 ---
 
